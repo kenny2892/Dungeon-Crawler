@@ -2,7 +2,7 @@
 ![Menu](https://raw.githubusercontent.com/kenny2892/Dungeon-Crawler/master/Screenshots/Main%20Menu.png)
 
 This was my final project in my Design Patterns class in which we learned about different patterns and principles to use when writing a program. I got 220 out of 200 on it (I did some of the extra credit for the project).
-It is an alternate version of my previous game [Kamiroth] (https://github.com/kenny2892/Kamiroth-Console-Edition), which was a project from a previous class.
+It is an alternate version of my previous game [Kamiroth](https://github.com/kenny2892/Kamiroth-Console-Edition), which was a project from a previous class.
 The primary goal of the project was to implement many of the principles and patterns in a realistic way.
 
 The game is pretty simple. Once you create your character you will be placed in a 5 x 5 grid of rooms. One room contains the Exit, but you cannot open the door until you have found the 4 Pillars of OO.These Pillars can be found each be found in one of the 25 rooms.
@@ -26,21 +26,21 @@ I also added in Developer tools that can be accessed by following these steps:
 Here are some Screenshots from the game:
 
 Character Creation:
-[Creation](https://raw.githubusercontent.com/kenny2892/Dungeon-Crawler/master/Screenshots/Character%20Creation.png)
+![Creation](https://raw.githubusercontent.com/kenny2892/Dungeon-Crawler/master/Screenshots/Character%20Creation.png)
 
 Navigating through the Maze:
-[Navgation](https://raw.githubusercontent.com/kenny2892/Dungeon-Crawler/master/Screenshots/Navigation.png)
+![Navgation](https://raw.githubusercontent.com/kenny2892/Dungeon-Crawler/master/Screenshots/Navigation.png)
 
 Fighting a Monster:
-[Fight](https://raw.githubusercontent.com/kenny2892/Dungeon-Crawler/master/Screenshots/Fighting.png)
+![Fight](https://raw.githubusercontent.com/kenny2892/Dungeon-Crawler/master/Screenshots/Fighting.png)
 
 Using your Inventory:
-[Inv](https://raw.githubusercontent.com/kenny2892/Dungeon-Crawler/master/Screenshots/Inventory.png)
+![Inv](https://raw.githubusercontent.com/kenny2892/Dungeon-Crawler/master/Screenshots/Inventory.png)
 
 Finding a Pillar:
-[Pillar](https://raw.githubusercontent.com/kenny2892/Dungeon-Crawler/master/Screenshots/Pillar.png)
+![Pillar](https://raw.githubusercontent.com/kenny2892/Dungeon-Crawler/master/Screenshots/Pillar.png)
 
 Developer Cheats:
-[Cheat](https://github.com/kenny2892/Dungeon-Crawler/blob/master/Screenshots/Dev%20Tools.png)
+![Cheat](https://github.com/kenny2892/Dungeon-Crawler/blob/master/Screenshots/Dev%20Tools.png)
   
 I do not own many of the assets in this (especially the background and any of the character portraits) and if one of them is yours, then I'd be happy to remove it.
