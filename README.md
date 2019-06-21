@@ -8,7 +8,24 @@ The primary goal of the project was to implement many of the principles and patt
 The game is pretty simple. Once you create your character you will be placed in a 5 x 5 grid of rooms. One room contains the Exit, but you cannot open the door until you have found the 4 Pillars of OO. These Pillars can each be found in one of the 25 rooms.
 Each room can have a Healing Potion, Vision Potion, Pitfall, a Pillar, or a Monster.
 If the room has a pillar or a monster, that will be the only thing in the room. If not, then it can have any combination of the previously mentioned items.
+
 On Hardcore mode, the player will not heal after a fight (this means you have to solely rely on HP potions, which are rare).
+
+The Items and Events do the Following:
+  - Hp Potiton: When used, the player will heal 5 - 15 Hp back.
+  - Vision Potion: Will show a map that reveals the events in the 8 rooms around you. 
+    The Letters are: 
+    - OO: Pillar of OO
+    - X: Monster
+    - H: Healing Potion
+    - V: Vison Potion
+    - P: Pitfall
+    - M: Mutliple Things
+    - I: Entrance
+    - O: Exit
+  - Monster: Will initiate combat. If you attempt to run away, this will be taken as a Defeat.
+  - Pitfall: Will damamge the player 1 - 20 Hp.
+  - Pillar: will be added into your inventory.
 
 Some of the patterns I implemented were:
   - Flyweight: I used an Attack Pool for all the different Attacks.
