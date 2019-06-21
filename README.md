@@ -1,4 +1,4 @@
-# Dungeon-Crawler
+# Dungeon Crawler
 ![Menu](https://raw.githubusercontent.com/kenny2892/Dungeon-Crawler/master/Screenshots/Main%20Menu.png)
 
 This was my final project in my Design Patterns class in which we learned about different patterns and principles to use when writing a program. I got 220 out of 200 on it (I did some of the extra credit for the project).
