@@ -5,7 +5,7 @@ This was my final project in my Design Patterns class in which we learned about 
 It is an alternate version of my previous game [Kamiroth](https://github.com/kenny2892/Kamiroth-Console-Edition), which was a project from a previous class.
 The primary goal of the project was to implement many of the principles and patterns in a realistic way.
 
-The game is pretty simple. Once you create your character you will be placed in a 5 x 5 grid of rooms. One room contains the Exit, but you cannot open the door until you have found the 4 Pillars of OO.These Pillars can be found each be found in one of the 25 rooms.
+The game is pretty simple. Once you create your character you will be placed in a 5 x 5 grid of rooms. One room contains the Exit, but you cannot open the door until you have found the 4 Pillars of OO. These Pillars can each be found in one of the 25 rooms.
 Each room can have a Healing Potion, Vision Potion, Pitfall, a Pillar, or a Monster.
 If the room has a pillar or a monster, that will be the only thing in the room. If not, then it can have any combination of the previously mentioned items.
 On Hardcore mode, the player will not heal after a fight (this means you have to solely rely on HP potions, which are rare).
